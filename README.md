@@ -2,8 +2,6 @@
 
 <!--
 
-My name is Ashley and I am a student in Computer Science and Biology at Missouri S&T.
-
 
 **okayash/okayash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=okayash&show_icons=true&theme=tokyonight)
+My name is Ashley and I am a student in Computer Science and Biology at Missouri S&T.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okayash&layout=compact&theme=tokyonight)
