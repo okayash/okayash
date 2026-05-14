@@ -17,5 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ashley Fong and I am a student in Computer Science and Biology at Missouri S&T.
+✨ My name is Ashley Fong and I am a student in Computer Science and Biology at Missouri S&T.
+
+🔭 my interests include:
+- NLP
+- Back-end development
+- Data Science
+- Basically any form of analytics.
+
+⚙️ I have significant experience with:
+
+
 
