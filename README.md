@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 
 ⚙️ I have significant experience with:
 
-[![Curious's GitHub stats](https://github-stats-extended.vercel.app/api?username=okayash)](https://github.com/okayash/github-readme-stats)
 
