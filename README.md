@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ My name is Ashley Fong and I
+✨ My name is Ashley Fong and I am a Computer Science and Biology Graduate working as a Test Automation Engineer
 
 🔭 my interests include:
 - NLP
@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 - Basically any form of analytics.
 
 ⚙️ I have significant experience with:
+- 
 
 
