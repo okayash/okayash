@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 🔭 my interests include:
 - NLP
+- Machine Learning
 - Back-end development
 - Data Science
 - Basically any form of analytics.
 
 ⚙️ I have significant experience with:
-- 
+- API Testing
 
 
